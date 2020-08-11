@@ -1,4 +1,4 @@
-var fadeSpeed = 12;
+var fadeSpeed = 8;
 var clicked = false;
 var another = false;
 var infoSmall = false;
